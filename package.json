@@ -1,0 +1,19 @@
+{
+  "name": "softmax-function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "eveningkid/softmax-function",
+  "author": {
+    "name": "Arnaud Dellinger",
+    "url": "https://github.com/eveningkid"
+  },
+  "keywords": [
+    "softmax",
+    "softargmax",
+    "normalize",
+    "normalized",
+    "exponential",
+    "function",
+  ],
+  "license": "MIT"
+}
