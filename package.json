@@ -1,5 +1,6 @@
 {
   "name": "softmax-function",
+  "description": "Normalize a vector of real numbers into a probability distribution",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "eveningkid/softmax-function",
